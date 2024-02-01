@@ -1,7 +1,7 @@
 # CredPal-Sales-Data-Analysis
 This data set is called the CredPal Sales data, which was sourced from Kaggle. The CredPal Sales data will be used to carry out an analysis of  Consumer Expenditure Across Diverse Levels And Regions in Lagos, Nigeria. Analyzing the CredPal Sales data will benefit CredPal by providing insights for market understanding, risk assessment, product development, targeted marketing, expansion opportunities, customer segmentation, and competitive advantage.
 
-**Introduction**
+# Introduction
 CredPal, a Lagos-based fintech, specializes in point-of-sale credit infrastructure, driving substantial retail sales growth for both large and small businesses. Attracting interest from Stripe, a San Francisco-based software technology company, CredPal secured a $2.9 million investment. However, before finalizing the investment, Stripe aims to comprehend the saving capabilities of consumers across different countries. A dedicated data analysis team has assessed the provided data, and the findings will be presented in a comprehensive report using various data visualization tools.
 
 # Business Question
@@ -37,13 +37,13 @@ Sub-Saharan Africa had the highest Monthly Expenditure of $24,452,747.56, and it
 Office Supplies had the highest Total Expenditure of $109,032,759,909.12, and it was 7,494.89% higher than Fruits, which had the lowest Total Expenditure of $1,435,606,232.16.
 
 
-**CONCLUSION**
+# Conclusion
 The dataset covers various financial indicators, including total expenditure, month expenditure, average monthly income, total income, and disposable income.
 Sub-Saharan Africa consistently had the highest sums across different financial indicators compared to other regions.
 The percentage differences highlight substantial disparities between the highest and lowest values within each category and region.
 
 
-**RECOMMENDATION**
+# Recommendation
 1. **Targeted Marketing Strategies:**
    Leverage the insights gained from the highest and lowest income and expenditure categories to tailor marketing strategies. Identify specific consumer segments with distinct preferences and spending patterns, enabling CredPal to create personalized campaigns and promotions that resonate with different customer groups.
 
